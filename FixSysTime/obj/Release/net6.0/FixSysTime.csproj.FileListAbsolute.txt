@@ -1,0 +1,15 @@
+C:\Users\KoshiDance\source\repos\FixSysTime\FixSysTime\bin\Release\net6.0\FixSysTime.exe
+C:\Users\KoshiDance\source\repos\FixSysTime\FixSysTime\bin\Release\net6.0\FixSysTime.deps.json
+C:\Users\KoshiDance\source\repos\FixSysTime\FixSysTime\bin\Release\net6.0\FixSysTime.runtimeconfig.json
+C:\Users\KoshiDance\source\repos\FixSysTime\FixSysTime\bin\Release\net6.0\FixSysTime.dll
+C:\Users\KoshiDance\source\repos\FixSysTime\FixSysTime\bin\Release\net6.0\FixSysTime.pdb
+C:\Users\KoshiDance\source\repos\FixSysTime\FixSysTime\obj\Release\net6.0\FixSysTime.csproj.AssemblyReference.cache
+C:\Users\KoshiDance\source\repos\FixSysTime\FixSysTime\obj\Release\net6.0\FixSysTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KoshiDance\source\repos\FixSysTime\FixSysTime\obj\Release\net6.0\FixSysTime.AssemblyInfoInputs.cache
+C:\Users\KoshiDance\source\repos\FixSysTime\FixSysTime\obj\Release\net6.0\FixSysTime.AssemblyInfo.cs
+C:\Users\KoshiDance\source\repos\FixSysTime\FixSysTime\obj\Release\net6.0\FixSysTime.csproj.CoreCompileInputs.cache
+C:\Users\KoshiDance\source\repos\FixSysTime\FixSysTime\obj\Release\net6.0\FixSysTime.dll
+C:\Users\KoshiDance\source\repos\FixSysTime\FixSysTime\obj\Release\net6.0\refint\FixSysTime.dll
+C:\Users\KoshiDance\source\repos\FixSysTime\FixSysTime\obj\Release\net6.0\FixSysTime.pdb
+C:\Users\KoshiDance\source\repos\FixSysTime\FixSysTime\obj\Release\net6.0\FixSysTime.genruntimeconfig.cache
+C:\Users\KoshiDance\source\repos\FixSysTime\FixSysTime\obj\Release\net6.0\ref\FixSysTime.dll
